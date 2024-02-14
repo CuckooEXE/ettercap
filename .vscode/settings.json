@@ -1,0 +1,9 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "editor.codeActionsOnSave": [
+        "source.fixAll"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
